@@ -1,0 +1,2 @@
+tencentcloud_sdk_python_common==3.0.1128
+tencentcloud_sdk_python_ocr==3.0.1128
